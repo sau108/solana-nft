@@ -28,7 +28,8 @@
     "files": [
       {
         "uri": "https://github.com/sau108/solana-nft/raw/main/BubblesS.jpg",
-        "type": "image/jpg"
+        "type": "image/jpg",
+        "cdn": true
       },
     ],
     "category": "image",
